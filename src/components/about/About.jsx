@@ -2,6 +2,7 @@ import React from 'react';
 import './About.css';
 import aboutImg from '../../assets/about.jpg';
 import Info from './Info';
+import CV from '../../assets/CV_Rinaldi-Ihsan.pdf';
 
 const About = () => {
   return (
@@ -20,7 +21,7 @@ const About = () => {
             And Laravel, enabling me to craft dynamic and interactive web applications.
           </p>
 
-          <a download="" href="#" className="button button--flex">
+          <a download="" href={CV} className="button button--flex">
             Download CV
             <svg className="button__icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
               <path
