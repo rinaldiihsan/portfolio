@@ -88,6 +88,20 @@ const Qualification = () => {
                 </div>
               </div>
             </div>
+            <div className="qualification__data">
+              <div>
+                <h3 className="qualification__title">Fullstack Web Developer</h3>
+                <span className="qualification__subtitle">PT. Mandiri Kreatif Ramadhan</span>
+                <div className="qualification__calendar">
+                  <i className="uil uil-calendar-alt"></i> 2023 - Present
+                </div>
+              </div>
+
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+            </div>
           </div>
         </div>
       </div>
