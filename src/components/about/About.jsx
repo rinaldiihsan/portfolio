@@ -2,7 +2,7 @@ import React from 'react';
 import './About.css';
 import aboutImg from '../../assets/about.jpg';
 import Info from './Info';
-import CV from '../../assets/CV_RinaldiIhsan.pdf';
+import CV from '../../assets/CV-Rinaldi Ihsan Setiawan.pdf';
 
 const About = () => {
   return (
@@ -17,8 +17,8 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Hello, I'm Rinaldi Ihsan from Medan, Indonesia. I have a profound passion for the world of programming and software development, with a primary focus on the JavaScript programming language. I possess expertise in the MERN Stack
-            And Laravel, enabling me to craft dynamic and interactive web applications.
+            Hi! I'm Rinaldi Ihsan Setiawan, originally from Medan, North Sumatra. Currently, I am an active student pursuing a degree in Computer Science at Malikussaleh University. I am focus revolves around becoming a full-stack
+            JavaScript web developer. In the realm of front-end development, I specialize in React.js and Next.js. On the back-end, my expertise includes technologies such as Express.js, Node.js, SQL, NoSQL, and utilizing Prisma as the ORM.
           </p>
 
           <a download="" href={CV} className="button button--flex">

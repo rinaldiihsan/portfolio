@@ -52,6 +52,8 @@
   }
   .about__img {
     width: 220px;
+    justify-content: center;
+    align-items: center;
   }
   .about__box {
     padding: 0.75rem 0.5rem;
@@ -89,6 +91,5 @@
     grid-template-columns: repeat(2, 1fr);
   }
 }
-
 
 /* 1:14 */
