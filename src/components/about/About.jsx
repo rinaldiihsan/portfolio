@@ -14,8 +14,6 @@ const About = () => {
         <img src={aboutImg} alt="" className="about__img container grid" />
 
         <div className="about__data">
-          <Info />
-
           <p className="about__description">
             Hi! I'm Rinaldi Ihsan Setiawan, originally from Medan, North Sumatra. Currently, I am an active student pursuing a degree in Computer Science at Malikussaleh University. I am focus revolves around becoming a full-stack
             JavaScript web developer. In the realm of front-end development, I specialize in React.js and Next.js. On the back-end, my expertise includes technologies such as Express.js, Node.js, SQL, NoSQL, and utilizing Prisma as the ORM.
