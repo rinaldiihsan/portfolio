@@ -4,7 +4,7 @@ const Data = () => {
   return (
     <div className="home__data">
       <h1 className="home__title">Rinaldi Ihsan Setiawan</h1>
-      <h3 className="home__subtitle">Web Developer</h3>
+      <h3 className="home__subtitle">Fullstack Web Developer</h3>
       <p className="home__description">Experienced web developer skilled in creating dynamic and user-friendly websites, proficient in various technologies for seamless online experiences.</p>
       <a href="#about" className="button button--flex">
         About Me
