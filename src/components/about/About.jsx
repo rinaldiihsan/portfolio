@@ -1,8 +1,8 @@
 import React from 'react';
 import './About.css';
-import aboutImg from '../../assets/about.jpg';
+import aboutImg from '../../assets/about.png';
 import Info from './Info';
-import CV from '../../assets/CV-Rinaldi Ihsan Setiawan.pdf';
+import CV from '../../assets/CV_RINALDI IHSAN SETIAWAN.pdf';
 
 const About = () => {
   return (
