@@ -15,8 +15,9 @@ const About = () => {
 
         <div className="about__data">
           <p className="about__description">
-            Hi! I'm Rinaldi Ihsan Setiawan, originally from Medan, North Sumatra. Currently, I am an active student pursuing a degree in Computer Science at Malikussaleh University. I am focus revolves around becoming a full-stack
-            JavaScript web developer. In the realm of front-end development, I specialize in React.js and Next.js. On the back-end, my expertise includes technologies such as Express.js, Node.js, SQL, NoSQL, and utilizing Prisma as the ORM.
+            Hi! I'm Rinaldi Ihsan Setiawan, a Computer Science graduate from Malikussaleh University, Medan. I’m a passionate full-stack JavaScript developer with expertise in Next.js, React.js, Express.js, and Node.js. Skilled in building
+            responsive UIs with Tailwind CSS, Framer Motion, and Shadcn UI, as well as managing SQL/NoSQL databases using Prisma ORM. I focus on delivering high-performance web applications and have proven experience working remotely with
+            distributed teams.
           </p>
 
           <a download="" href={CV} className="button button--flex">
